@@ -1,25 +1,31 @@
-## 👋 Hi there! I'm Muhammad Zoraib Qadir
+# 👋 Hi there! I'm Muhammad Zoraib Qadir
 
-🎯 **Data Scientist | ML Engineer | AI Enthusiast**  
-📍 Based in Islamabad, Pakistan  
-🌐 [Portfolio Website](https://personal-showcase-magic.lovable.app/) | [LinkedIn](https://www.linkedin.com/in/zoraib-qadir-05531821b/) | 📫 m.zoraib697@gmail.com  
+🎯 **Data Scientist | ML Engineer | AI Systems Builder**
+📍 Based in Islamabad, Pakistan
+🌐 [Portfolio](https://personal-showcase-magic.lovable.app/) | [LinkedIn](https://www.linkedin.com/in/zoraib-qadir-05531821b/) | 📫 m.zoraib697@gmail.com
 
 ---
 
 ### 🚀 About Me
 
-I’m a **results-driven Data Scientist** with hands-on experience in developing and deploying scalable machine learning models and data pipelines. I specialize in transforming complex datasets into actionable insights, supporting data-driven business decisions. Currently pursuing a BS in Data Science at **FAST NUCES**, I'm passionate about AI, NLP, and building impactful data products.
+I'm a **results-driven Data Scientist & ML Engineer** with hands-on experience building and deploying scalable machine learning models, AI-powered SaaS products, and end-to-end data pipelines. I specialize in transforming complex datasets into actionable insights and shipping production-grade AI systems — from LLM-powered tools and RAG pipelines to real-time ETL and predictive analytics.
+
+Graduated with a **BS in Data Science from FAST NUCES (2025)**, Dean's List 2022–2025. Passionate about Generative AI, NLP, and building data products that create measurable business impact.
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages:** Python, C++, SQL, R  
-**Libraries/Frameworks:** Pandas, NumPy, Scikit-learn, TensorFlow, Keras, PyTorch, LangChain, NLTK  
-**Tools:** MySQL, MongoDB, Apache Spark, Hadoop, Power BI, Tableau  
-**Web Scraping:** Selenium, BeautifulSoup  
-**Other:** Git, Linux, Jupyter, Google Colab  
-**Soft Skills:** Critical Thinking, Teamwork, Communication, Time Management
+| Category | Tools |
+|---|---|
+| **Languages** | Python, SQL, R, JavaScript, C++ |
+| **AI / ML** | TensorFlow, PyTorch, Scikit-learn, XGBoost, LightGBM, LangChain, OpenAI API, Hugging Face, NLTK, Transformers |
+| **Generative AI** | LLMs, RAG, Prompt Engineering, Fine-tuning, Embeddings, Vector Databases |
+| **MLOps** | MLflow, Docker, CI/CD, Git, Linux, Railway, AWS, Azure SQL, Vercel |
+| **Backend & Data** | FastAPI, PostgreSQL, MySQL, MongoDB, Redis, Apache Spark, Hadoop, Pandas, NumPy |
+| **Automation & Scraping** | Selenium, Playwright, BeautifulSoup, OpenCV |
+| **BI & Visualization** | Power BI, Tableau, Streamlit, D3.js, Matplotlib, Seaborn, ggplot2 |
+| **Soft Skills** | Critical Thinking, Cross-functional Collaboration, Communication, Time Management |
 
 ---
 
@@ -32,45 +38,63 @@ I’m a **results-driven Data Scientist** with hands-on experience in developing
 
 ### 💼 Experience
 
-**Data Scientist – Eynvision**  
-*Sep 2024 – Apr 2025 | Islamabad, Pakistan*  
-- Built and deployed 8+ ML models (e.g., churn prediction, demand forecasting) with up to **90% accuracy**.  
-- Helped clients **reduce inventory costs by 22%** and **boost customer retention by 18%**.  
-- Performed **time-series analysis** leading to **35% improvement in delivery timelines**.  
+**Data Scientist & IT Consultant – Future Connect Training & Recruitment Ltd**
+*Apr 2026 – Present | Islamabad, Pakistan (Hybrid)*
+- Developed 6 training modules in Python, SQL, and ML, raising cohort completion rates by **35%** among 30+ professionals
+- Automated 4 client reporting workflows via Python and Power BI, saving **8 hours/week**; advised SMEs on data architecture, cutting infrastructure costs by **15%**
 
-**Teaching Assistant – FAST NUCES**  
-*Jan 2023 – Aug 2023, Jan 2025 – Present*  
-- Supported core CS courses, impacting over 200 students.  
-- Delivered **30+ technical sessions**, boosting average student performance by 40%.
+**Freelance AI Engineer – Independent (Fiverr)**
+*Jun 2025 – Mar 2026 | Remote*
+- Delivered **10+ production AI systems** for international clients across NLP, automation, and data engineering
+- Built **AI Lead Finder SaaS** (FastAPI · React · PostgreSQL · Playwright · OpenAI API) — async job queue + LLM-powered email generation, cutting client outreach effort by **70% per campaign**
+- Synchronized inventory databases for 3 enterprise clients using Azure SQL with zero data loss
+
+**Data Scientist – EynVision**
+*Sep 2024 – Apr 2025 | Islamabad, Pakistan*
+- Designed and shipped **8+ ML models** for churn prediction and demand forecasting using Python, TensorFlow, and Scikit-learn — up to **90% accuracy**
+- Cut inventory costs by **22%** and raised customer retention by **18%** through predictive analytics pipelines in Tableau and Power BI
+- Built 3 process-automation tools with FastAPI and Redis, eliminating **12+ hours/week** of manual work
+- Applied time-series forecasting on supply-chain data, reducing planning overhead by **20+ hours/month**
+
+**Teaching Assistant – FAST NUCES** *(Parallel Distributed Computing & Discrete Structures)*
+*Jan 2023 – Jun 2025 | Islamabad, Pakistan*
+- Supported **200+ students** across two courses; authored and graded 100+ Python and R labs, raising average scores by **20%**
+- Delivered **30+ workshops** on distributed algorithms and system design, improving student proficiency by **40%**
 
 ---
 
 ### 🔬 Key Projects
 
-- 🧠 [**SkillSeeker (AI App)**](https://github.com/Muhammad-Zoraib-Qadir/Skil-Seeker-AI-WIP): LLM-powered app recommending professionals based on user queries with **87% similarity accuracy**.  
-- 🎞️ [**Video Frame Prediction**](https://github.com/Muhammad-Zoraib-Qadir/Video-Frame-Prediction-DL): Predicting future video frames using CNNs and LSTM for temporal modeling.  
-- 🔄 [**MESH-JOIN Real-Time ETL**](https://github.com/Muhammad-Zoraib-Qadir/MeshJoin-RealTime-DataWarehouse): Optimized real-time data loading in warehouses with MESH-JOIN and a star schema.  
-- 🛍️ [**Amazon Product Scraper**](https://github.com/Muhammad-Zoraib-Qadir/Amazon-Product-Scraper-DB): NLP + SQL-based eCommerce data pipeline for product analysis.  
-- 🌍 [**Interactive TB Dashboard**](https://github.com/Muhammad-Zoraib-Qadir/tb-interactive-dashboard/blob/main/README.md): D3.js visual analytics on tuberculosis data across regions.
+- 🤖 [**AI Lead Finder SaaS**](https://github.com/Muhammad-Zoraib-Qadir) — Full-stack AI SaaS: Playwright scraping engine + async job queue + LLM-powered outreach generation. **70% reduction** in campaign effort. *(FastAPI · React · PostgreSQL · Redis · OpenAI API)*
+
+- 🧠 [**SkillSeeker – AI Recommendation Engine**](https://github.com/Muhammad-Zoraib-Qadir/Skil-Seeker-AI-WIP) — Embedding-based recommendation system with **87% similarity precision** across 15+ domains; 15% accuracy gain via A/B testing. *(LangChain · OpenAI API · NLP)*
+
+- 🛍️ [**Amazon Scraper + SQL Data Pipeline**](https://github.com/Muhammad-Zoraib-Qadir/Amazon-Product-Scraper-DB) — End-to-end e-commerce ingestion pipeline with anti-bot circumvention, NLP preprocessing, and MySQL schema normalization for price tracking & competitive analysis. *(Selenium · BeautifulSoup · Python · MySQL)*
+
+- 🔄 [**MESH-JOIN Real-Time ETL Pipeline**](https://github.com/Muhammad-Zoraib-Qadir/MeshJoin-RealTime-DataWarehouse) — Streaming algorithm ingesting **1M+ records/day**; slashed data-to-insight latency from 4 hours to **under 5 minutes**. *(Apache Spark · MySQL · Java · Python)*
+
+- 🎞️ [**Video Frame Prediction**](https://github.com/Muhammad-Zoraib-Qadir/Video-Frame-Prediction-DL) — Future frame prediction using CNNs and LSTM for temporal modeling. *(PyTorch · Deep Learning · Computer Vision)*
+
+- 🌍 [**Interactive TB Dashboard**](https://github.com/Muhammad-Zoraib-Qadir/tb-interactive-dashboard/blob/main/README.md) — Visual analytics on tuberculosis data across global regions. *(D3.js · Data Visualization)*
 
 ---
 
 ### 📜 Certifications
 
-- **Data Science with Python** – Simplilearn  
-- **R for Data Science** – Great Learning  
-- **Data Science Foundations** – Great Learning  
+- 🏅 **Data Science with Python** – Simplilearn (2024)
+- 🏅 **R for Data Science** – Great Learning (2023)
+- 🏅 **Data Science Foundations** – Great Learning (2023)
 
 ---
 
-### 📫 Let’s Connect!
+### 📫 Let's Connect!
 
-Feel free to reach out if you'd like to collaborate on projects, discuss data science, or just chat:
+Feel free to reach out to collaborate on projects, discuss AI/ML, or just chat:
 
-📧 Email: m.zoraib697@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/zoraib-qadir-05531821b/)  
-🌐 [Portfolio Website](https://personal-showcase-magic.lovable.app/)
+📧 m.zoraib697@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/zoraib-qadir-05531821b/)
+🌐 [Portfolio](https://personal-showcase-magic.lovable.app/)
 
 ---
 
-_Thanks for visiting my GitHub profile! 🙌_
+_Thanks for visiting! If something here interests you, let's build something together. 🚀_
